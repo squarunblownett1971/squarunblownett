@@ -1,0 +1,31 @@
+{
+  "name": "squarunblownett",
+  "version": "1.0.0",
+  "description": "Node.js module for lunar calendar calculations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/squarunblownett1971/squarunblownett"
+  },
+  "dependencies": {
+	  "marikovmailbory": "1.0.0",
+"farmaniyah-mod": "1.0.0",
+"christopherlee-bit": "1.0.0",
+"spleef": "1.0.0",
+"carolscott": "1.0.0",
+"limonovp-mode": "1.0.0",
+"krotovsemen": "1.0.0",
+"grommailpasha": "1.0.0",
+    "moment": "^2.29.1",
+    "lunar-calendar": "^1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/squarunblownett1971/squarunblownett/issues"
+  },
+  "homepage": "https://github.com/squarunblownett1971/squarunblownett#readme"
+}
